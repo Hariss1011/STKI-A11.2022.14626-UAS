@@ -47,6 +47,17 @@ Jelaskan proses pemodelan yang dilakukan. Beberapa hal yang bisa dijelaskan anta
 - Hyperparameter tuning
 - Cross-validation
 
+## 5. Performa Model
+Model dievaluasi menggunakan metrik-metrik berikut:
+
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R-squared (R²)
+Hasil evaluasi digunakan untuk membandingkan performa model dan memilih model terbaik untuk prediksi harga mobil BMW.
+
+### Evaluasi Model
+- Menggunakan metrik seperti MAE, MSE, dan R² untuk mengevaluasi performa model
+
 ## 6.Diskusi Hasil dan Kesimpulan
 
 ### Diskusi Hasil
